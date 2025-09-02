@@ -9,11 +9,13 @@
   <br>
 
   <h4 align="left">📙 library</h3>
+  <img src="https://img.shields.io/badge/pandas-20232a.svg?style=for-the-badge&logo=pandas&logoColor=#000000" />&nbsp
+  <img src="https://img.shields.io/badge/numpy-20232a.svg?style=for-the-badge&logo=numpy&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/scikit_learn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/PyTorch-20232a.svg?style=for-the-badge&logo=pytorch&logoColor=#000000" />&nbsp
+  <br>
   <img src="https://img.shields.io/badge/Tensorflow-20232a.svg?style=for-the-badge&logo=Tensorflow&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/Flask-20232a.svg?style=for-the-badge&logo=flask&logoColor=#000000" />&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Matplotlib-20232a.svg?style=for-the-badge&logo=matplotlib&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/Seaborn-20232a.svg?style=for-the-badge&logo=seaborn&logoColor=#000000" />&nbsp
   <br>
@@ -27,7 +29,7 @@
   <img src="https://img.shields.io/badge/Sqlite-20232a.svg?style=for-the-badge&logo=sqlite&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/MySql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#000000" />&nbsp
 
-  <h4 align="left">🪪 tools</h3>
+  <h4 align="left">🔨 tools</h3>
   <img src="https://img.shields.io/badge/Cursor-20232a.svg?style=for-the-badge&logo=cursor&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=vscode&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/pycharm-20232a.svg?style=for-the-badge&logo=pycharm&logoColor=#000000" />&nbsp
