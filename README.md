@@ -75,6 +75,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinjaeu&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjq65897245)](https://solved.ac/sjq65897245/)
 </div>
+<div align="left">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinjaeu&show_icons=true&theme=transparent)
+</div>
 
 <div align='left'>
 
