@@ -31,7 +31,7 @@
 
   <h4 align="left">🔨 tools</h3>
   <img src="https://img.shields.io/badge/Cursor-20232a.svg?style=for-the-badge&logo=cursor&logoColor=#000000" />&nbsp
-  <img src="https://img.shields.io/badge/vscode-20232a.svg?style=for-the-badge&logo=vscode&logoColor=#000000" />&nbsp
+  <img src="https://img.shields.io/badge/visual_studio_code-20232a.svg?style=for-the-badge&logo=vscode&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/pycharm-20232a.svg?style=for-the-badge&logo=pycharm&logoColor=#000000" />&nbsp
   <img src="https://img.shields.io/badge/intellij-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />&nbsp
 
